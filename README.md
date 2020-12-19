@@ -2,9 +2,6 @@
 
 #### This project contains course HomeWork presented in [SBU-CRC](https://www.sbu.ac.ir/Res/CRC/Pages/default.aspx) - Fall 2019
 
-## Authors:
-  - [Seyed Mostafa Hosseini](https://www.linkedin.com/in/aseyed-mostafa/)
-
 ## Materials
 
 This course had 6 Homeworks. Each homework material is in a [Jupyter Notebook](https://jupyter.org):
